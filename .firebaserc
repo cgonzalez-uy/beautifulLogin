@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "medium-turtlecode": {
+      "hosting": {
+        "beatifulLogin": [
+          "medium-turtlecode"
+        ]
+      }
+    }
+  }
+}

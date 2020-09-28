@@ -8,7 +8,7 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 })
 export class AppComponent implements OnInit{
   /* AQUI DEFINIMOS LA TEMATICA DE NUESTRA IMAGEN*/
-  styleImage = 'rainy';
+  styleImage = 'rain';
 
   form: FormGroup;
   constructor(private formBuilder: FormBuilder){
